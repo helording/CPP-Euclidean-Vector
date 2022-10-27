@@ -1,0 +1,75 @@
+Start testing: Jul 12 22:44 AEST
+----------------------------------------------------------
+2/4 Testing: test.euclidean_vector_getter_setters_tests
+2/4 Test: test.euclidean_vector_getter_setters_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_getter_setters_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector
+"test.euclidean_vector_getter_setters_tests" start time: Jul 12 22:44 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (24 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"test.euclidean_vector_getter_setters_tests" end time: Jul 12 22:44 AEST
+"test.euclidean_vector_getter_setters_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: test.euclidean_vector_friend_function_tests
+4/4 Test: test.euclidean_vector_friend_function_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_friend_function_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector
+"test.euclidean_vector_friend_function_tests" start time: Jul 12 22:44 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (232 assertions in 9 test cases)
+
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"test.euclidean_vector_friend_function_tests" end time: Jul 12 22:44 AEST
+"test.euclidean_vector_friend_function_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: test.euclidean_vector_member_function_tests
+3/4 Test: test.euclidean_vector_member_function_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_member_function_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector
+"test.euclidean_vector_member_function_tests" start time: Jul 12 22:44 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (167 assertions in 10 test cases)
+
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"test.euclidean_vector_member_function_tests" end time: Jul 12 22:44 AEST
+"test.euclidean_vector_member_function_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/4 Testing: test.euclidean_vector_constructor_tests
+1/4 Test: test.euclidean_vector_constructor_tests
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_constructor_tests"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector
+"test.euclidean_vector_constructor_tests" start time: Jul 12 22:44 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (106 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"test.euclidean_vector_constructor_tests" end time: Jul 12 22:44 AEST
+"test.euclidean_vector_constructor_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 12 22:44 AEST

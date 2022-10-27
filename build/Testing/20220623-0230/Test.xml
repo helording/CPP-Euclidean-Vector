@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-clang++-11"
+	BuildStamp="20220623-0230-Experimental"
+	Name="vx6"
+	Generator="ctest-3.18.4"
+	CompilerName="/usr/bin/clang++-11"
+	CompilerVersion="11.0.1"
+	OSName="Linux"
+	Hostname="vx5"
+	OSRelease="4.19.0-0.bpo.19-amd64"
+	OSVersion="#1 SMP Debian 4.19.232-1~deb9u1 (2022-03-08)"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="85"
+	ProcessorCacheSize="22528"
+	NumberOfLogicalCPU="64"
+	NumberOfPhysicalCPU="32"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="385595"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1000.02"
+	>
+	<Testing>
+		<StartDateTime>Jun 23 12:37 AEST</StartDateTime>
+		<StartTestTime>1655951865</StartTestTime>
+		<TestList>
+			<Test>./test/euclidean_vector/test.euclidean_vector_test1</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>test.euclidean_vector_test1</Name>
+			<Path>./test/euclidean_vector</Path>
+			<FullName>./test/euclidean_vector/test.euclidean_vector_test1</FullName>
+			<FullCommandLine>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_test1</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>6</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0182965</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_test1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJy1lE9Lw0AQxe/7Kd6xBZua/k0DRUqNtCiIqeJBSlg30yZQsyG7bRXEz+5uSlE0p5LOaXgzu7+3szDsq95gtBWbNCaeRTsSWhaRJqVdpAocU65Fgl3HcbvOCIlUGjzPN6ngOpWZw8Jthn2qE7SusJIFZG51xVir3mDB0SQOJiFk/gGuVLrO3ijTtQMdp23n0P47nX/CYVyOyHPfdUfmXK3BTjPS7/m4mczvgmufAdNZML1tgLtOnJphKftFjSbGY/TQZOX/0XvOy4Lt75elU9H9SvTL5dLe6jqDaqTRD+VTsYNqrHtm7LAa2zkz1qvGds+MHf3GhsHD0zwMosdZeP+8iCaL0kJveQGlY9+XWx3JVVTwbE3GzisJvlWETBpTgspFgT1X0Ekh9yZNqCDIjErR+DZ0in3GxvUGs++B4IqUD3j4BIbIzSah2OQuVjzdUMysUJTLzIdnu7zOT9fg2MW+AfiYqu8=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jun 23 12:37 AEST</EndDateTime>
+		<EndTestTime>1655951865</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

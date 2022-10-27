@@ -1,0 +1,62 @@
+Start testing: Jun 23 12:37 AEST
+----------------------------------------------------------
+1/1 Testing: test.euclidean_vector_test1
+1/1 Test: test.euclidean_vector_test1
+Command: "/tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector/euclidean_vector_test1"
+Directory: /tmp_amd/adams/export/adams/3/z5164744/Desktop/COMP6771/ass2/build/test/euclidean_vector
+"test.euclidean_vector_test1" start time: Jun 23 12:37 AEST
+Output:
+----------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+euclidean_vector_test1 is a Catch v2.13.9 host application.
+Run with -? for options
+
+-------------------------------------------------------------------------------
+Euclidean vector copy assignment
+-------------------------------------------------------------------------------
+../test/euclidean_vector/euclidean_vector_test1.cpp:119
+...............................................................................
+
+../test/euclidean_vector/euclidean_vector_test1.cpp:154: FAILED:
+  CHECK( a1.dimensions() == 4 )
+with expansion:
+  5 == 4
+
+../test/euclidean_vector/euclidean_vector_test1.cpp:155: FAILED:
+  CHECK( a1[0] == 1.6 )
+with expansion:
+  5.6 == 1.6
+
+../test/euclidean_vector/euclidean_vector_test1.cpp:156: FAILED:
+  CHECK( a1[1] == 1.6 )
+with expansion:
+  5.6 == 1.6
+
+../test/euclidean_vector/euclidean_vector_test1.cpp:157: FAILED:
+  CHECK( a1[2] == 1.6 )
+with expansion:
+  5.6 == 1.6
+
+../test/euclidean_vector/euclidean_vector_test1.cpp:158: FAILED:
+  CHECK( a1[3] == 1.6 )
+with expansion:
+  5.6 == 1.6
+
+../test/euclidean_vector/euclidean_vector_test1.cpp:159: FAILED:
+  REQUIRE_THROWS_AS( a1[4], std::out_of_range )
+because no exception was thrown where one was expected:
+
+===============================================================================
+test cases:  8 |  7 passed | 1 failed
+assertions: 88 | 82 passed | 6 failed
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test.euclidean_vector_test1" end time: Jun 23 12:37 AEST
+"test.euclidean_vector_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 23 12:37 AEST

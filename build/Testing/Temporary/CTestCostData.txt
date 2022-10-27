@@ -1,0 +1,6 @@
+test.euclidean_vector_test1 22 0.102872
+test.euclidean_vector_constructor_tests 23 0.119077
+test.euclidean_vector_getter_setters_tests 23 0.0927421
+test.euclidean_vector_member_function_tests 23 0.100788
+test.euclidean_vector_friend_function_tests 23 0.108792
+---
